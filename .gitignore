@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Mac / OS-specific
+.DS_Store
+
+# Speed Chaser embeddings
+vectorstore/
+*.faiss
+*.pkl
+
+# Secrets
+.env
+.env.*
+
+# Node modules if used
+node_modules/
+
+# Logs
+*.log
+
+# Other sensitive or temporary files
+refs/*
+docs/*

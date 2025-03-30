@@ -1,0 +1,8 @@
+faiss-cpu==1.10.0
+sentence-transformers==4.0.1
+torch==2.6.0          # or your matching CUDA version if GPU-enabled
+numpy==2.2.4
+requests==2.32.3
+python-dotenv==1.1.0
+PyMuPDF==1.25.4       # for PDF parsing
+tqdm==4.67.1
